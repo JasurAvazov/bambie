@@ -1,0 +1,29 @@
+.button {
+	border-radius: .4vmin;
+	font-weight: 500;
+	cursor: pointer;
+	color: white;
+}
+
+.small {
+	padding: .8vmin 1.4vmin;
+	font-size: 1.6vmin;
+	letter-spacing: .15vmin;
+}
+
+.medium {
+	padding: 1vmin 1.6vmin;
+	font-size: 1.8vmin;
+	letter-spacing: .15vmin;
+}
+
+.large {
+	padding: 1vmin 1.8vmin;
+	font-size: 2.2vmin;
+	letter-spacing: .15vmin;
+}
+
+.contained {
+	background-color: rgb(12, 0, 70);
+	border: none;
+}

@@ -1,5 +1,4 @@
 import Button from '@/components/ui/Button'
-import { log } from 'console';
 
 export default function Home() {
   function foo() {
@@ -8,7 +7,8 @@ export default function Home() {
   
   return (
     <>
-      <Button 
+      <Button
+        size='large'
         onClick={ foo }
         title='dsadas'
       />
